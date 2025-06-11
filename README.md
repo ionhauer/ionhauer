@@ -10,17 +10,25 @@ A passionate technical and rescue diver, Ion is based in Munich, Germany, with h
 
 ## Articles
 
-🗞️ [2025 Semiconductor Trends: A Venture Capital Perspective](https://substack.com/home/post/p-165654080) (11 Jun 2025, APEX Ventures Substack)
+🗞️ [2025 Semiconductor Trends: A Venture Capital Perspective](https://apexventures.substack.com/p/2025-semiconductor-trends-a-venture) (APEX Ventures Substack, 11 Jun 2025)
 
-🗞️ [11 future of compute startups to watch, according to VCs](https://sifted.eu/articles/11-future-of-compute-startups-to-watch) (21 Apr 2025, Sifted)
+🗞️ [Venture View: Ion Hauer from APEX Ventures on how neutral atoms can deliver on quantum’s commercial promises](https://biforesight.com/quantum/venture-view-ion-hauer-from-apex-ventures-on-how-neutral-atoms-can-deliver-on-quantums-commercial-promises/) (BI Foresight, 16 Oct 2024)
 
-🗞️ [Venture View: Ion Hauer from APEX Ventures on how neutral atoms can deliver on quantum’s commercial promises](https://biforesight.com/quantum/venture-view-ion-hauer-from-apex-ventures-on-how-neutral-atoms-can-deliver-on-quantums-commercial-promises/) (16 Oct 2024, BI Foresight)
+🗞️ [Europe needs more scientists in VC to become a deeptech powerhouse](https://tech.eu/2024/02/10/europe-needs-more-scientists-in-vc-to-become-a-deep-tech-powerhouse/) (Tech.eu, 10 Feb 2024)
 
-🗞️ [Europe needs more scientists in VC to become a deeptech powerhouse](https://tech.eu/2024/02/10/europe-needs-more-scientists-in-vc-to-become-a-deep-tech-powerhouse/) (10 Feb 2024, Tech.eu)
+🗞️ [Welcome to Dr. Ion Hauer, Principal at APEX Ventures](https://medium.com/apex-ventures/welcome-to-dr-ion-hauer-principal-at-apex-ventures-537450fcf030) (APEX Ventures Medium, 2 Aug 2023)
 
-🗞️ [More qubits, more money, more mergers: Quantum predictions for 2024](https://sifted.eu/articles/quantum-predictions-2024) (27 Dec 2023, Sifted)
+## Commentaries
 
-🗞️ [Welcome to Dr. Ion Hauer, Principal at APEX Ventures](https://medium.com/apex-ventures/welcome-to-dr-ion-hauer-principal-at-apex-ventures-537450fcf030) (2 Aug 2023, APEX Ventures Medium)
+🗞️ [Ion Hauer of APEX Ventures: Balancing AI with Human Intuition](https://www.conversationalainews.com/ion-hauer-of-apex-ventures-balancing-ai-with-human-intuition/) (Conversational AI, 11 Jun 2025)
+
+🗞️ [11 future of compute startups to watch, according to VCs](https://sifted.eu/articles/11-future-of-compute-startups-to-watch) (Sifted, 21 Apr 2025)
+
+🗞️ [AI experts available to provide comment to journalists](https://www.responsesource.com/blog/ai-experts-available-to-provide-comment-to-journalists/) (ResponseSource, 25 Feb 2025)
+
+🗞️ [Draghi report sounds alarm on Europe's competitive decline](https://tech.eu/2024/09/13/draghi-report-sounds-alarm-on-europes-competitive-decline/) (Tech.eu, 13 Sep 2024)
+
+🗞️ [More qubits, more money, more mergers: Quantum predictions for 2024](https://sifted.eu/articles/quantum-predictions-2024) (Sifted, 27 Dec 2023)
 
 ## Talks
 
@@ -50,9 +58,9 @@ A passionate technical and rescue diver, Ion is based in Munich, Germany, with h
 
 ## Podcasts
 
-🎙️ [Venturing Beyond: Quantum Computing's Frontier Explored by a VC](https://www.youtube.com/watch?v=0PjrATWVxF0) (15 Aug 2023, Understanding VC)
+🎙️ [Venturing Beyond: Quantum Computing's Frontier Explored by a VC](https://www.youtube.com/watch?v=0PjrATWVxF0) (Understanding VC, 15 Aug 2023)
 
-🎙️ [Investing in Deep Tech](https://www.youtube.com/watch?v=rCEue4RGtVk) (31 Jul 2023, The Leadership Lab with DeepRec.ai)
+🎙️ [Investing in Deep Tech](https://www.youtube.com/watch?v=rCEue4RGtVk) (The Leadership Lab with DeepRec.ai, 31 Jul 2023)
 
 # Experience
 
